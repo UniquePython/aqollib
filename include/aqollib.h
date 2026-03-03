@@ -3,5 +3,6 @@
 
 #include "errors/error.h"
 #include "memory/safe.h"
+#include "dtype/dtype.h"
 
 #endif

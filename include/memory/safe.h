@@ -3,13 +3,7 @@
 
 #include <stdlib.h>
 
-typedef enum e_dtype
-{
-    INT,
-    DOUBLE,
-    FLOAT,
-    CHAR
-} DType;
+#include "dtype/dtype.h"
 
 size_t GetTypeSize(DType dtype);
 
