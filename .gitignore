@@ -1,0 +1,8 @@
+*.o
+bin/
+build/
+*.tmp
+*.log
+*.swp
+*.swo
+
