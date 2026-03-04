@@ -5,5 +5,6 @@
 #include "memory/safe.h"
 #include "memory/free.h"
 #include "dtype/dtype.h"
+#include "io/file.h"
 
 #endif
