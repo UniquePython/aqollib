@@ -4,6 +4,7 @@
 #include "errors/error.h"
 #include "memory/safe.h"
 #include "memory/free.h"
+#include "memory/arena.h"
 #include "dtype/dtype.h"
 #include "io/file.h"
 #include "io/stdin.h"
