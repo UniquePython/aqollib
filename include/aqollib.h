@@ -6,5 +6,6 @@
 #include "memory/free.h"
 #include "dtype/dtype.h"
 #include "io/file.h"
+#include "io/stdin.h"
 
 #endif
