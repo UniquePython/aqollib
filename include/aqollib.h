@@ -6,6 +6,7 @@
 #include "memory/free.h"
 #include "memory/arena.h"
 #include "dtype/dtype.h"
+#include "array/array.h"
 #include "io/file.h"
 #include "io/stdin.h"
 
